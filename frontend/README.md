@@ -70,11 +70,17 @@
 6. 프로젝트 구조
 
 frontend/
+
  ├── src/
- │    ├── components/   # 주요 컴포넌트
- │    ├── pages/        # 페이지 컴포넌트
- │    └── App.js        # 메인 진입점
- └── package.json       # 프로젝트 설정 파일
+ 
+ │    ├── components/  
+ # 주요 컴포넌트
+ │    ├── pages/      
+ # 페이지 컴포넌트
+ │    └── App.js     
+ # 메인 진입점
+ └── package.json  
+ # 프로젝트 설정 파일
 
 7. 주요 라이브러리 설명
 1) React
