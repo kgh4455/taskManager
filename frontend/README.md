@@ -71,7 +71,7 @@
 
 frontend/
  ├── src/
- │    ├── components/   # 주요 컴포넌트 폴더
+ │    ├── components/   # 주요 컴포넌트
  │    ├── pages/        # 페이지 컴포넌트
  │    └── App.js        # 메인 진입점
  └── package.json       # 프로젝트 설정 파일
