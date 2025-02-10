@@ -92,12 +92,19 @@
 ## 7. 프로젝트 구조
 
 backend/
+
  ├── src/
+ 
  │    ├── main/
+ 
  │    │    ├── java/
+ 
  │    │    │    └── com.example.demo/  # 주요 코드 폴더
+ 
  │    │    └── resources/               # 설정 파일 폴더
+ 
  └── build.gradle                       # Gradle 설정 파일
+ 
 
 ## 8. 에러 처리 및 응답 코드
 
